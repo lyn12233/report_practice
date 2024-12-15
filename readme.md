@@ -8,8 +8,8 @@
 - [ ] 开展线下调查, 使结果更具说服力
 
 ## 文件结构
-- [code](): 详细结果和检验代码实现
-- [img](): 相关图像
-- [origin](): 原调查结果
-- [report](): 报告撰写, 已去除敏感信息
-- [surveys](): 问卷海报, 可能仍在开放以供参考
+- [code](https://github.com/lyn12233/report_practice/tree/main/code): 详细结果和检验代码实现
+- [img](https://github.com/lyn12233/report_practice/tree/main/img): 相关图像
+- [origin](https://github.com/lyn12233/report_practice/tree/main/origin): 原调查结果
+- [report](https://github.com/lyn12233/report_practice/tree/main/report): 报告撰写, 已去除敏感信息
+- [surveys](https://github.com/lyn12233/report_practice/tree/main/surveys): 问卷海报, 可能仍在开放以供参考
